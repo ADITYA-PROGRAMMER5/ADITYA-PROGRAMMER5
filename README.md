@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ADITYA-PROGRAMMER5/ADITYA-PROGRAMMER5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ADITYA JADHAV
 
-Here are some ideas to get you started:
+### React Developer | MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern web applications with a focus on performance, usability, and clean code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ADITYA-PROGRAMMER5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-jadhav-bba69934a)
+[![Profile Views](https://komarev.com/ghpvc/?username=ADITYA-PROGRAMMER5&style=flat-square&color=6C63FF)](https://github.com/ADITYA-PROGRAMMER5)
+
+</div>
+
+---
