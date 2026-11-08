@@ -27,3 +27,33 @@ My primary focus is frontend development with React.js, while continuously expan
 - Interested in problem-solving, clean code, and software development.
 
 ---
+
+<!-- ================= TECH STACK ================= -->
+
+## Technical Skills
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
