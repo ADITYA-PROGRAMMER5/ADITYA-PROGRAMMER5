@@ -127,3 +127,15 @@ I'm always interested in connecting with developers, sharing ideas, collaboratin
 </p>
 
 ---
+
+<div align="center">
+
+### Continuous Learning. Consistent Building. Never Stop Improving.
+
+**© 2026 Aditya Jadhav. All Rights Reserved.**
+
+Designed and maintained by Aditya Jadhav.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,50:3F1A54,100:9333EA&height=120&section=footer" />
+
+</div>
