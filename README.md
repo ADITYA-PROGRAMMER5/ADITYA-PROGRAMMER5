@@ -106,3 +106,24 @@ A personal developer portfolio showcasing my technical skills, projects, and dev
 </div>
 
 ---
+<!-- ================= CONNECT ================= -->
+
+## Let's Connect
+
+I'm always interested in connecting with developers, sharing ideas, collaborating on projects, and exploring opportunities to learn and grow.
+
+<p align="left">
+<a href="https://github.com/ADITYA-PROGRAMMER5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+</p>
+
+---
