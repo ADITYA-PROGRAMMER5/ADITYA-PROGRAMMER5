@@ -12,3 +12,18 @@
 
 ---
 
+<!-- ================= ABOUT ================= -->
+
+## About Me
+
+I am a BCA student and developer passionate about creating modern, responsive, and user-friendly web applications.
+
+My primary focus is frontend development with React.js, while continuously expanding my knowledge of backend technologies and database management.
+
+- Currently exploring full-stack web development.
+- Building interactive applications using React.js.
+- Learning Node.js, Express.js, and MongoDB.
+- Working with PHP and PostgreSQL.
+- Interested in problem-solving, clean code, and software development.
+
+---
