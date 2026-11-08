@@ -89,3 +89,20 @@ A personal developer portfolio showcasing my technical skills, projects, and dev
 
 ---
 
+## GitHub Statistics
+
+<div align="center">
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ADITYA-PROGRAMMER5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ADITYA-PROGRAMMER5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com/?user=ADITYA-PROGRAMMER5&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
