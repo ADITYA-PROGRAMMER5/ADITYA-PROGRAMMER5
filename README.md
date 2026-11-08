@@ -12,8 +12,6 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
 ## About Me
 
 I am a BCA student and developer passionate about creating modern, responsive, and user-friendly web applications.
@@ -27,8 +25,6 @@ My primary focus is frontend development with React.js, while continuously expan
 - Interested in problem-solving, clean code, and software development.
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ## Technical Skills
 
@@ -57,3 +53,39 @@ My primary focus is frontend development with React.js, while continuously expan
 </p>
 
 ---
+
+## Featured Projects
+
+### 01. Campus Problem Reporter
+
+A web-based platform that allows college students to report campus problems and enables administrators to manage and track their resolution.
+
+**Key Features**
+
+- Student registration and authentication.
+- Create, edit, and delete problem reports.
+- Admin dashboard and report management.
+- Report status tracking.
+- Search, filtering, and pagination.
+- Role-based access control.
+
+**Technology Stack**
+
+`React.js` `PHP` `PostgreSQL`
+
+[View Project Repository →](https://github.com/ADITYA-PROGRAMMER5/Campus-Problem-Reporter)
+
+---
+
+### 02. ADI Dev Portfolio
+
+A personal developer portfolio showcasing my technical skills, projects, and development journey through a modern and responsive interface.
+
+**Technology Stack**
+
+`React.js` `JavaScript` `Tailwind CSS`
+
+[Explore My Repositories →](https://github.com/ADITYA-PROGRAMMER5?tab=repositories)
+
+---
+
