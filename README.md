@@ -106,7 +106,6 @@ A personal developer portfolio showcasing my technical skills, projects, and dev
 </div>
 
 ---
-<!-- ================= CONNECT ================= -->
 
 ## Let's Connect
 
@@ -117,7 +116,7 @@ I'm always interested in connecting with developers, sharing ideas, collaboratin
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aditya-jadhav-bba69934a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
